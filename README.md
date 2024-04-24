@@ -7,11 +7,11 @@ link=https://t.me/danmuraya/)](https://t.me/danmuraya/)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/@dancmuraya)]([https://t.me/danmuraya/](https://www.youtube.com/@dancmuraya))
 
 
-- 🔭 Senior Software Engineer @Kyosk
-- 🌱 I’m currently learning ...
-- 👯 Looking for PHP/ Laravel , Java/Spring boot collaborations
-- 🤔 I need better keyboard design this one cant keep up with my thoughts.
-- 💬 Anything Java / PHP challenge accepted
-- 📫 Contact information on the top
-- 😄 D.I.L.L.I.G.A.F about Pronouns
-- ⚡ Fun fact: We are building tech where you will be able to download food
+ 🔭 Senior Software Engineer @Kyosk
+ 🌱 I’m currently learning ...
+ 👯 Looking for PHP/ Laravel , Java/Spring boot collaborations
+ 🤔 I need better keyboard design this one cant keep up with my thoughts.
+ 💬 Anything Java / PHP challenge accepted
+ 📫 Contact information on the top
+ 😄 D.I.L.L.I.G.A.F about Pronouns
+ ⚡ Fun fact: We are building tech where you will be able to download food
