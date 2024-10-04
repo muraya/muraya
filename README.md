@@ -9,5 +9,4 @@
 🤔  I need better keyboard design current one cant keep up with my ideas.
 💬  Anything programmable challenge accepted -- I won't back down.
 📩  Contact information on the top
-👥  D.I.L.L.I.G.A.F about Pronouns
 ⚡  Fun fact: We are building tech where you will be able to download food
